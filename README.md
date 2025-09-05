@@ -11,4 +11,6 @@ Responsive design
 Tech Stack:
 
 Frontend: React, Vite, Zustand, DaisyUI, Tailwind CSS, Socket.IO-client
+
+
 Backend: Express.js, MongoDB, Mongoose, Socket.IO, Cloudinary, JWT
